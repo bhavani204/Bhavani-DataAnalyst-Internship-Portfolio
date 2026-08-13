@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project is part of the 60-Days Data Analytics Internship Program at ApexPlanet Software Pvt. Ltd.
+
 
 The objective of Task 3 is to perform a deep-dive analysis of a selected business area, define important Key Performance Indicators (KPIs), identify meaningful insights, and develop an interactive dashboard to communicate the findings effectively.
 
@@ -189,7 +189,7 @@ This project provided practical experience in transforming data into meaningful 
 
 ## 👤 Author
 
-[Your Name]
+Bhavani Uadayagiri
 
 Data Analytics Intern
 ApexPlanet Software Pvt. Ltd.
