@@ -22,11 +22,11 @@ The main objectives of this project are
 
 ## 📌 Business Area
 
-Selected Business Area [Customer Analysis  Sales Analysis  Marketing  E-commerce  Other]
+Customer Analysis  Sales Analysis  Marketing  E-commerce  
 
 ### Business Problem
 
-[Write 2–4 sentences explaining the business problem you selected.]
+
 
 Example
 
@@ -38,13 +38,13 @@ Example
 
 The following KPIs were selected for the analysis
 
- KPI      Formula  Definition  Business Purpose      
- -------  --------------------  --------------------- 
- [KPI 1]  [Formula]             [Why it is important] 
- [KPI 2]  [Formula]             [Why it is important] 
- [KPI 3]  [Formula]             [Why it is important] 
- [KPI 4]  [Formula]             [Why it is important] 
- [KPI 5]  [Formula]             [Why it is important] 
+ KPI           Business Purpose      
+ -------       --------------------  
+ Total Sales        Total Sales
+Unit Price          Price of single item
+Category            Easy to identify products
+Total Revenue       Overall money gained and spent
+Profit              Amount earned on sales
 
 ---
 
@@ -52,10 +52,8 @@ The following KPIs were selected for the analysis
 
 The analysis focuses on
 
- [Analysis area 1]
- [Analysis area 2]
- [Analysis area 3]
- [Analysis area 4]
+ Segmentation Analysis
+Based on the dataset the segmentation analysis is preferable and usable.
 
 ### Analysis Approach
 
@@ -73,7 +71,7 @@ The analysis focuses on
 
 The interactive dashboard was developed using
 
-BI Tool [Power BI  Tableau  Looker Studio]
+BI Tool 
 
 ### Dashboard Features
 
@@ -83,13 +81,12 @@ The dashboard provides
  Interactive filters
  Trend analysis
  Category-wise analysis
- [Additional visualization]
- [Additional visualization]
+ Dashboard
  Detailed business insights
 
 ### 🔗 Live Dashboard
 
-[Open Interactive Dashboard](YOUR_LIVE_DASHBOARD_LINK)
+Linked the file in Task3
 
 ---
 
@@ -97,20 +94,10 @@ The dashboard provides
 
 The major findings from the deep-dive analysis are
 
-1. [Finding 1] – [Brief explanation]
-2. [Finding 2] – [Brief explanation]
-3. [Finding 3] – [Brief explanation]
-4. [Finding 4] – [Brief explanation]
-
----
-
-## 📷 Dashboard Preview
-
-Add screenshots of your dashboard here.
-
-```text
-![Dashboard Preview](imagesdashboard.png)
-```
+1. [Revenue] – [Brief explanation]
+2. [Total Sales] – [The sales can be increased or decreased based on requirement, price etc]
+3. [Profit] – [Amount gained by selling goods]
+4. [Customer Priority] – [Brief explanation]
 
 ---
 
@@ -120,12 +107,9 @@ Add screenshots of your dashboard here.
  Pandas
  NumPy
  SQL
- Power BI  Tableau  Looker Studio
+ Power BI  
  Git
  GitHub
-
-Remove any technologies that you did not actually use.
-
 ---
 
 ## 📁 Project Structure
@@ -189,7 +173,7 @@ This project provided practical experience in transforming data into meaningful 
 
 ## 👤 Author
 
-Bhavani Uadayagiri
+Bhavani Udayagiri
 
 Data Analytics Intern
 ApexPlanet Software Pvt. Ltd.
